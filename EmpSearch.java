@@ -50,7 +50,7 @@ class Employee
     System.out.println("employee with employee number"+searchEno+"not found.");
 
 }
-s.close();
+s.close(); 
 }
 }
 
